@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\bin\Debug\Assignment2__client.exe.config
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\bin\Debug\Assignment2__client.exe
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\bin\Debug\Assignment2__client.pdb
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.Properties.Resources.resources
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.Form1.resources
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.exe
+C:\Users\USER\source\repos\Assignment2__client\Assignment2__client\obj\Debug\Assignment2__client.pdb
